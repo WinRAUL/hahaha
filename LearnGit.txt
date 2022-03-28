@@ -1,0 +1,3 @@
+use git bash in a folder using right click etc
+git clone https://github.com/WinRAUL/hahaha				//cloning a repo
+git init		//to initialise a repo for git stages
